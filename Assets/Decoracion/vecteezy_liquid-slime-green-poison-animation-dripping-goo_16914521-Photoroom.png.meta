@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 1ad68ff60da9d0845afd9ba4a4d12fce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 270
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d451fefa689f40917174434a1a7ea
+      internalID: -765396792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 270
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62acbe8bbb4b2c488fece229d5d496d
+      internalID: -1678485586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 270
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d31b1fab88e4448b1d769e1426134a
+      internalID: 672895088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 271
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4c536c1302ac48bf834392895a6a9
+      internalID: -1317443283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 270
+        width: 121
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe74f4135393e41adeafcd254912f6
+      internalID: 2009644217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 273
+        width: 121
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadce8a41b2f65e4a90dbe89757db684
+      internalID: -1076359814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 274
+        width: 115
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1c654083a66543af4600081dc3e48
+      internalID: 11974534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 273
+        width: 118
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3c56843ebabe4b8af33b61f853181
+      internalID: -961881664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70bde4cd7e0744e8de1b5841f50bb1
+      internalID: 739508417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 117
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf79fdbcc905f14297a90aef03c04ba
+      internalID: -1759097234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 48
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d133844c80c5f4690f4de33b224896
+      internalID: 2108362124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 51
+        width: 116
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249eee08da5c4fd4e8eb8ec2112e30a6
+      internalID: -141619376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 47
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707eb2beb92a4f4ab798a93f01bba0a
+      internalID: 1026300307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 50
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af8d827edd07114789d88f0137cd336
+      internalID: -602807366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 48
+        width: 117
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5ccefcaec5b347bf4b11eda01c243
+      internalID: -1380235781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 49
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d447785826ba32c40b0e9def808b0767
+      internalID: -1480626885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 50
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b7c7ce0170888488eca871f716d463
+      internalID: -1753727236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_0: -765396792
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_1: -1678485586
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_10: 739508417
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_11: -70884863
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_12: -841507142
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_13: -1574288161
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_14: -1809755024
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_15: -1581833780
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_16: 163421874
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_17: 1658556886
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_18: -1159396456
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_19: 607898862
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_2: 672895088
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_20: -1759097234
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_21: 2108362124
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_22: -141619376
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_23: 1026300307
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_24: -602807366
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_25: -1380235781
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_26: -1480626885
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_27: -1753727236
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_28: 387718579
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_29: -1330774345
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_3: -1317443283
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_30: 1373465178
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_31: -757806787
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_32: -1733610402
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_33: 1037555137
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_34: 2073601894
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_35: 535400917
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_36: 1929509712
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_37: 214598494
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_38: 47779055
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_39: -1439270679
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_4: 2009644217
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_40: 641195915
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_41: 1707279534
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_42: -2061042808
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_43: 1895992056
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_44: -2134392874
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_45: -835499789
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_46: 752902305
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_47: -322678145
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_48: 1544225745
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_49: 726282828
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_5: -1076359814
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_50: -2059042657
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_51: -615451818
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_6: 11974534
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_7: 16403345
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_8: 1440061477
+      vecteezy_liquid-slime-green-poison-animation-dripping-goo_16914521-Photoroom_9: -961881664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
